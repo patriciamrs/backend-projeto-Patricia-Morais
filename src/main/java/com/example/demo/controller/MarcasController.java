@@ -30,7 +30,7 @@ public class MarcasController {
     public Map<String, String> sobre() {
         return Map.of(
                 "integrantes", "Patricia Morais da Silva",
-                "nome do projeto", "Projeto Backend Web Service"
+                "nome do projeto", "Projeto Backend Integração de API externa(Tabela Fipe)"
         );
     }
 
