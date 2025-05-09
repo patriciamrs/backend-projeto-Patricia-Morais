@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package com.example.demo.controller;
 
 import com.example.demo.entities.MarcaFavorita;
 import com.example.demo.services.MarcasService;
